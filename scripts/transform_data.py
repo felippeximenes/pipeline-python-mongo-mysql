@@ -75,4 +75,4 @@ if __name__ == "__main__":
     df_produtos = create_dataframe(lst_produtos)
     format_date(df_produtos)
     save_csv(df_produtos, "../data_teste/tb_produtos.csv")
-    # Teste
+    
