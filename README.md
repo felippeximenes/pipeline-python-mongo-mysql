@@ -2,6 +2,7 @@
 # 🛠️ Projeto de Engenharia de Dados com Python – Pipeline ETL
 
 Este repositório contém um projeto prático desenvolvido durante o curso de Engenharia de Dados da [Alura](https://www.alura.com.br/), com foco na construção de um **pipeline de dados completo utilizando Python**. O objetivo principal foi aplicar os conceitos de **ETL (Extract, Transform, Load)** em um fluxo automatizado de dados, reforçando o uso de boas práticas e ferramentas como o GitHub.
+Lembrando que o cada linha de código esta totalmente comentada, para que seja de fácil entendimento, com anotações minuciosas do passo a passo da crianção de toda a pipeline.
 
 ---
 
